@@ -1,33 +1,33 @@
 let a message': Keskustele meidän kanssa
-'chat call': Kirjoistus keskustelu
-'audio call': Ääni keskustelu
-'video call': Video keskustelu
+'chat call': chat keskustelu
+'audio call': ääni keskustelu
+'video call': video keskustelu
 'information help': Lisätietoa
 'faq help': Lisätietoa
 'Your discussion has ended': Keskustelusi on päättynyt.<br />Me kiitämme.
 'Please, rate this discussion': Mielipiteesi on meille tärkeä
 'Discussion helpful ?': Oliko keskustelu hyödyllinen?
 'Would you recommend this experience to your friends?': Suosittelisitko tätä ystävällesi?
-'Any comments ?': Ehdotuksia
-'chat_transcript': Jos haluat kipion tästä keskustelusta, jätä  -sähhköpostiosoitteesi.
+'Any comments ?': Ehdotuksia?
+'chat_transcript': Jos haluat kipion tästä keskustelusta, jätä sähköpostiosoitteesi.
 'Webuser is typing': kirjoittaa...
 'Type your text here': Kirjoita viestisi tähän
-'agent dont answer': Asiakaspalvelija ei vasta
-'chat redirection': Kirjoistus keskustelu
+'agent dont answer': asiakaspalvelija ei vasta
+'chat redirection': chat keskustelu
 'agent close communication': Asiakaspalvelija lopetti keskustelun
 'Deprecated version of Flash Chat only': Vanha Flash versio. 
 'i am currently unavailable': Pahoittelen, olen tällä hetkellä varattu.
 'Your mail': Sähköpostiosoitteesi
-'Or': Tai
-'Please type your message here': Olehyvä ja kirjoita viestisi tähän
-'message field required': vesti on pakollinen
+'Or': tai
+'Please type your message here': Ole hyvä ja kirjoita viestisi tähän
+'message field required': viesti on pakollinen
 'email or phone field required': sähköpostiosoite tai puhelin numero on pakollinen
 'send': lähetä
 'not ready to switch': ei valmis siirtoon
-'will answer in a few seconds': palvelee kohta.
+'will answer in a few seconds': palvelee kohta
 'Email adress': Sähköpostiosoite
-'Phone number': Puhelin numero
-'Phone': Puhelin numero
+'Phone number': Puhelinnumero
+'Phone': Puhelinnumero
 'email invalide': Virhellinen sähköpostiosoite
 'Discutez en video' : Video keskustelu
 'Discutez en audio' : Ääni keskustelu
@@ -38,15 +38,15 @@ let a message': Keskustele meidän kanssa
 'webuser': Minä
 'user flash crash': shockwave flash kaatui. Sinu't on siirety kirjoitus keskusteluun
 'message sent': Viesti lähetetty
-'cgv': Käyttämälla tätä palvelua olet hyväksynyt <a href="http://www.videodesk.com/terms" target="_blank">Yleiset sopimusehdot</a> ja Videodesk inc ja käytön jatkamista tämän palvelun tarkoittaa asiakas suostuu päivityksiä. Jos et hyväksy näitä ehtoja ja edellytyksiä, älä käytä tätä palvelua.
+'cgv': Käyttämälla tätä palvelua olet hyväksynyt <a href="http://www.videodesk.com/terms" target="_blank">Yleiset sopimusehdot</a> ja Videodesk inc. Jos et hyväksy näitä ehtoja ja edellytyksiä, älä käytä tätä palvelua.
 'You will can enter your text here': Voit kirjoittaa viestisi tähän
-'Discussion with %site%': Keskustelu kohteeseen %site%
+'Discussion with %site%': Keskustelu kohteessa %site%
 'hello': Hei
 'videodesk team': videodesk team<br /><a href="http://www.videodesk.com">www.videodesk.com</a>
-'new message from': Uusi viesti nettisivultaq
+'new message from': Uusi viesti nettisivulta
 'message from videodesk module': Uusi viesti Videodesk laajennuksesta
-'message originally intended to': viesti lähetetty kohteeseen :
-'Enter your question here': Kirjoita kysymtksesi tähän
+'message originally intended to': viesti lähetetty kohteeseen
+'Enter your question here': Kirjoita kysymyksesi tähän
 
 #CRM
 Please provide the details below and we will answer in a few seconds: Täytä alla olevat tiedot niin vastaamme ihan kohta
@@ -78,7 +78,7 @@ gorgeous: loistava
 'information help':   Voit nyt keskustella kanssamme. Valitse istellesi sopivin tapa keskustella, se on täysin ilmaista.
 'pending call text': Hei, Haluatko ottaa yhteyttä agentti. Hän pyysi kontakti on heti käytettävissä.
 'flash security panel': Klikkaa "Salli" jotta pysyt keskustella
-'Leave a text message': Pahoittelen, O'len tällä hetkellä varattu. Jätä viesti niin vastaan mahdollisimman pian.
+'Leave a text message': Pahoittelen, olen tällä hetkellä varattu. Jätä viesti niin vastaan mahdollisimman pian.
 
 #--------------FLASH PANEL-----------------
 #TMP MSG
