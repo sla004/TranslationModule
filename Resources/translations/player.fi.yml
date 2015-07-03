@@ -68,8 +68,8 @@ fo_67: Pääsy ääneen sallittu
 fo_68: Pääsy videoon sallittu
 fo_69: Pääsy ääneen kielletty
 fo_70: Pääsy videoon kielletty
-fo_71: Allow
-fo_72: Deny
+fo_71: Salli
+fo_72: Estä
 fo_73: Can I co-browse our store with you?
 fo_74: Co-browse session has ended
 fo_75: Co-browse session has ended
@@ -174,11 +174,11 @@ fo_171: Jätä viesti #grabber_message_2
 fo_172: Aloita videopuhelu #call_button_txt
 fo_173: Asiakaspalvelija ei nyt pysty vastaamaan. #fallback_timeout_calls_txt
 fo_174: Asiakaspalvelija ei nyt pysty vastaamaan. #fallback_timeout_unavailble_txt
-fo_175: Leave a message
+fo_175: Kuinka voimme auttaa?
 fo_176: Your conversation transcript with
 fo_177: My text chat conversation  #My text chat conversation
 fo_178: My video chat conversation #My video chat conversation
-fo_179: Hello, #Hi
+fo_179: Hei, #Hi
 fo_180: Your recent chat with one of our agents is attached below. #We have to pleasure to send you the transcript of your discussion.
 fo_181: Please find the entire conversation attached below. #Please find the entire conversation attached below.
 fo_182: We hope to see you again, soon! #We look forward to seeing you again on
